@@ -98,8 +98,11 @@ def process_url(url):
 
 def save_results_to_csv(file_path, results, mode='a'):
     df = pd.DataFrame(results)
-    df.to_csv(file_path, index=False, mode=mode, header=mode=='w')
-
+    df.columns = ['url', 'name', 'address', 'status', 'rating', 'phone', 'latitude', 'longitude']
+    if mode == 'w' or not os.path.exists(file_path):
+        df.to_csv(file_path, index=False, mode=mode, header=True)
+    else:
+        df.to_csv(file_path, index=False, mode=mode, header=False)
 def scrape_multiple_urls(urls):
     temp_success_file = 'temp_place_info.csv'
     final_success_file = 'place_info.csv'
