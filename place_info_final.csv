@@ -1,24 +1,24 @@
 name,address,rating,latitude,longitude,close,open,district,store_chain
-Violet Pham,"197 Đ. Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",4.3,21.0364225,105.7843016,8 AM,8 AM,Cầu Giấy,Other
+Violet Pham,"197 Đ. Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",4.3,21.0364225,105.7843016,8 PM,8 AM,Cầu Giấy,Other
 OVmart - Lê Trọng Tấn,"220 P. Lê Trọng Tấn, Định Công, Thanh Xuân, Hà Nội",4.4,20.9918395,105.832637,10 PM,8 AM,Thanh Xuân,Other
-Mẹ và Bé,"121 P. Chùa Quỳnh, Bạch Mai, Hai Bà Trưng, Hà Nội",5.0,20.9995508,105.8536091,24 hours,24 hours,Hai Bà Trưng,Mẹ và Bé
+Mẹ và Bé,"121 P. Chùa Quỳnh, Bạch Mai, Hai Bà Trưng, Hà Nội",5.0,20.9995508,105.8536091,11:59 PM,0:00 AM,Hai Bà Trưng,Mẹ và Bé
 Baby Kid,"214 P. Nguyễn Ngọc Nại, Khương Mai, Thanh Xuân, Hà Nội",3.0,20.9969337,105.8268579,9:30 PM,8 AM,Thanh Xuân,Other
 Nana's House - Siêu thị Mẹ và Bé,"117K1 P. Giảng Võ, Chợ Dừa, Đống Đa, Hà Nội , Việt Nam",3.9,21.0268776,105.8240057,9:30 PM,8 AM,Đống Đa,Mẹ và Bé
 Bobbymart,"Sun City, P. Hai Bà Trưng, Phan Chu Trinh, Hoàn Kiếm, Hà Nội",3.9,21.020179,105.854487,9:30 PM,8 AM,Hoàn Kiếm,Other
 ShinKids,"Ngõ 1008 Đ. Láng, Yên Hoà, Đống Đa, Hà Nội",5.0,21.0232016,105.7996655,10 PM,8 AM,Đống Đa,Other
-KidsPlaza 47 Cổ Nhuế,"47 Đ. Cổ Nhuế, Cổ Nhuế, Hà Nội,",4.0,21.0598968,105.7823021,10 PM,8 AM,Cổ Nhuế,KidsPlaza
+KidsPlaza 47 Cổ Nhuế,"47 Đ. Cổ Nhuế, Cổ Nhuế, Hà Nội,",4.0,21.0598968,105.7823021,10 PM,8 AM,Bắc Từ Liêm,KidsPlaza
 Siêu Thị Mẹ Bầu & Em Bé Con Cưng,"933 Đ. La Thành, Láng Thượng, Ba Đình, Hà Nội",1.0,21.0269875,105.8095799,9:30 PM,7:30 AM,Ba Đình,Other
 Shop Mẹ Míp,"89b Dốc viện Phụ Sản, Láng Thượng, Ba Đình, Hà Nội",4.9,21.0267731,105.8089651,10 PM,8 AM,Ba Đình,Other
-siêu thị mẹ và bé,"Số nhà, 3 P. Phú Thượng, Phú Thượng, Tây Hồ, Hà Nội , Việt Nam",4.9,21.0880965,105.8114054,7 AM,7 AM,Tây Hồ,Mẹ và Bé
+siêu thị mẹ và bé,"Số nhà, 3 P. Phú Thượng, Phú Thượng, Tây Hồ, Hà Nội, Việt Nam",4.9,21.0880965,105.8114054,7 AM,7 AM,Tây Hồ,Mẹ và Bé
 Shop Mẹ Và Bé,"148 P. Lò Đúc, P, Hai Bà Trưng, Hà Nội",4.0,21.0124106,105.8584255,9:30 PM,8 AM,Hai Bà Trưng,Mẹ và Bé
 BiboMart La Thành,"994 Đường Đ. La Thành, Ngọc Khánh, Ba Đình, Hà Nội",3.5,21.026116,105.810449,10 PM,7 AM,Ba Đình,Bibomart
 Mother And Baby Supermarket,"167, Đường Quang Trung, Phường Hà Cầu, Quận Hà Đông, P. Quang Trung, Hà Đông, Hà Nội",2.0,20.9691239,105.7746291,10 PM,8 AM,Hà Đông,Other
-Mẹ Châu Chấu Store,"Ngõ 74 Nguyễn Chí Thanh, Láng Thượng, Đống Đa, Hà Nội",5.0,21.0182333,105.80597,8:30 AM,8:30 AM,Đống Đa,Other
+Mẹ Châu Chấu Store,"Ngõ 74 Nguyễn Chí Thanh, Láng Thượng, Đống Đa, Hà Nội",5.0,21.0182333,105.80597,8:30 PM,8:30 AM,Đống Đa,Other
 Vườn Của Bé - 70 Trần Bình,"70 P. Trần Bình, Mỹ Đình, Cầu Giấy, Hà Nội",4.6,21.0315512,105.7780622,10 PM,8 AM,Cầu Giấy,Other
 Siêu thị MB Mart,"11 - TT02 Khu Đô Thị HDMon, Nam Từ Liêm, Hà Nội",4.4,21.0356015,105.7677853,9:30 PM,8 AM,Nam Từ Liêm,Other
 Shop Me Va Be,"105 P. Giảng Võ, Giảng Võ, Hoàn Kiếm, Hà Nội",4.4,21.0278304,105.8223289,9:30 PM,9 AM,Hoàn Kiếm,Other
-Siêu Thị Mẹ Bầu & Em Bé Con Cưng,"TTTM Go!, P. Lê Trọng Tấn, Hà Nội",3.3,21.0001789,105.8284289,9:30 PM,7:30 AM,P. Lê Trọng Tấn,Other
-KidsPlaza Nguyễn Hoàng,"18 Nguyễn Hoàng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nộ, Hà Nội,",4.1,21.0302455,105.7751977,10 PM,8 AM,Hà Nộ,KidsPlaza
+Siêu Thị Mẹ Bầu & Em Bé Con Cưng,"TTTM Go!, P. Lê Trọng Tấn, Hà Nội",3.3,21.0001789,105.8284289,9:30 PM,7:30 AM,Thanh Xuân,Other
+KidsPlaza Nguyễn Hoàng,"18 Nguyễn Hoàng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nộ, Hà Nội,",4.1,21.0302455,105.7751977,10 PM,8 AM,Nam Từ Liêm,KidsPlaza
 KidsPlaza Trần Thái Tông,"41 P.Trần Thái Tông, Dịch Vọng, Cầu Giấy, Hà Nội",3.9,21.0347745,105.7893698,10 PM,8 AM,Cầu Giấy,KidsPlaza
 Jolly Kids Siêu thị Mẹ và bé,"20 Đường 2-2, Trần Phú, Hoàng Mai, Hà Nội",5.0,20.9705656,105.8787413,10 PM,8 AM,Hoàng Mai,Mẹ và Bé
 KidsPlaza,"56 P. Giang Văn Minh, Đội Cấn, Ba Đình, Hà Nội",3.7,21.0342524,105.8272627,10 PM,8 AM,Ba Đình,KidsPlaza
@@ -30,24 +30,24 @@ Siêu thị Mẹ và Bé,"25 P. Nguyễn Thị Thập, Nhân Chính, Cầu Giấ
 BiboMart Sơn Tây,"20 P. Sơn Tây, Điện Biên, Ba Đình, Hà Nội",3.6,21.033048,105.8328419,10 PM,7 AM,Ba Đình,Bibomart
 KidsPlaza 1048 Đê La Thành,"1048 Đ. La Thành, Láng Thượng, Ba Đình, Hà Nội",4.2,21.0267941,105.8099262,10 PM,8 AM,Ba Đình,KidsPlaza
 KidsPlaza Nguyễn Hữu Thọ,"4 Nguyễn Hữu Thọ, Khu đô thị Bắc Linh Đàm, Hoàng Mai, Hà Nội",4.0,20.9697017,105.8298972,10 PM,8 AM,Hoàng Mai,KidsPlaza
-Mẹ và Bé,"96 Đ. Cổ Nhuế, Cổ Nhuế, Hà Nội",4.0,21.0613325,105.7813188,10 PM,8 AM,Cổ Nhuế,Mẹ và Bé
+Mẹ và Bé,"96 Đ. Cổ Nhuế, Cổ Nhuế, Hà Nội",4.0,21.0613325,105.7813188,10 PM,8 AM,Thanh Xuân,Mẹ và Bé
 Siêu Thị Mẹ Bầu & Em Bé Con Cưng,"TTM Go! Thăng Long, 222 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội",1.0,21.0073921,105.7931198,9:30 PM,7:30 AM,Cầu Giấy,Other
 Siêu thị mẹ bé Con Cưng Ba Đình,"933 Đ. La Thành, Láng Thượng, Ba Đình, Hà Nội",1.8,21.0269875,105.8095799,9:30 PM,8 AM,Ba Đình,Other
-Cửa Hàng Quần Áo Mẹ Và Bé HaTo,"ngách 23 Ng. 168 Hào Nam, Chợ Dừa, Đống Đa, Hà Nội",5.0,21.0260001,105.8290279,24 hours,24 hours,Đống Đa,Mẹ và Bé
-BiboMart Hồ Tùng Mậu,"298 Đường Hồ Tùng Mậu, Cầu Diễn, Nam Từ Liêm, Việt Nam, Từ Liêm, Hà Nội",3.7,21.0406746,105.765172,10 PM,7 AM,Từ Liêm,Bibomart
-Vườn Của Bé - 109 Xuân Đỉnh,"Xuân Đỉnh, Bac Tu Liem, Hanoi",5.0,21.0709474,105.8000222,10 PM,8 AM,,Other
+Cửa Hàng Quần Áo Mẹ Và Bé HaTo,"ngách 23 Ng. 168 Hào Nam, Chợ Dừa, Đống Đa, Hà Nội",5.0,21.0260001,105.8290279,11:59 PM,0:00 AM,Đống Đa,Mẹ và Bé
+BiboMart Hồ Tùng Mậu,"298 Đường Hồ Tùng Mậu, Cầu Diễn, Nam Từ Liêm, Việt Nam, Từ Liêm, Hà Nội",3.7,21.0406746,105.765172,10 PM,7 AM,Nam Từ Liêm,Bibomart
+Vườn Của Bé - 109 Xuân Đỉnh,"Xuân Đỉnh, Bac Tu Liem, Hanoi",5.0,21.0709474,105.8000222,10 PM,8 AM,Bắc Từ Liêm,Other
 Chow Baby,"58 Đ. Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",4.5,21.0366079,105.7879135,10 PM,9 AM,Cầu Giấy,Other
 KidsPlaza 211 Trung Kính,"211 P. Trung Kính, Yên Hoà, Cầu Giấy, Hà Nội",4.4,21.0193902,105.7921987,10 PM,8 AM,Cầu Giấy,KidsPlaza
 BiboMart Phạm Ngọc Thạch,"84 P.Phạm Ngọc Thạch, Quang Trung, Đống Đa, Hà Nội",3.1,21.0070525,105.8318932,10 PM,7 AM,Đống Đa,Bibomart
 BiboMart Nguyễn Chánh,"Số 62 P. Nguyễn Chánh, Trung Hoà, Cầu Giấy, Hà Nội",2.5,21.0095431,105.7945047,10 PM,7 AM,Cầu Giấy,Bibomart
-Shop mẹ và bé,"Tân Lập, Đan Phượng, Hanoi",5.0,21.074745,105.7032075,9:30 PM,7 AM,,Mẹ và Bé
-BubeKids - Mẹ Và Bé,"Vinhomes Ocean Park, Đa Tốn, Gia Lâm, Hà Nội 12400",5.0,20.9908885,105.9431146,24 hours,24 hours,Gia Lâm,Mẹ và Bé
+Shop mẹ và bé,"Tân Lập, Đan Phượng, Hanoi",5.0,21.074745,105.7032075,9:30 PM,7 AM,Đan Phượng,Mẹ và Bé
+BubeKids - Mẹ Và Bé,"Vinhomes Ocean Park, Đa Tốn, Gia Lâm, Hà Nội 12400",5.0,20.9908885,105.9431146,11:59 PM,0:00 AM,Gia Lâm,Mẹ và Bé
 TutiCare Mẹ & Bé,"33A, Hoàn Kiếm, Hà Nội",5.0,21.0202523,105.8544182,10:30 PM,10:30 AM,Hoàn Kiếm,Other
 Mẹ & Bé Plaza,"37 Dốc viện Phụ Sản, Láng Thượng, Ba Đình, Hà Nội",5.0,21.0268097,105.808832,7 AM,7 AM,Ba Đình,Other
 Boo Mart (cửa hàng mẹ và bé),"89 P. BàTriệu, Hà Trì, Hà Đông, Hà Nội",4.2,20.9667215,105.7826447,10 PM,8 AM,Hà Đông,Mẹ và Bé
 KidsPlaza,"20 P. Thái Thịnh, Ngã Tư Sở, Đống Đa, Hà Nội",4.1,21.0061731,105.8222008,10 PM,8 AM,Đống Đa,KidsPlaza
 Mai Hương Baby Shop,"19 ngõ 89 P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội",4.1,21.0119633,105.8205015,10 PM,8 AM,Đống Đa,Other
-shop Mẹ và Bé,"19 Ng. 213 P. Giáp Nhất, Nhân Chính, Thanh Xuân, Hà Nội",4.1,21.0061609,105.8148805,24 hours,24 hours,Thanh Xuân,Mẹ và Bé
+shop Mẹ và Bé,"19 Ng. 213 P. Giáp Nhất, Nhân Chính, Thanh Xuân, Hà Nội",4.1,21.0061609,105.8148805,11:59 PM,0:00 AM,Thanh Xuân,Mẹ và Bé
 Shop babyborn.vn - Đồ cho mẹ và bé,"29 ngách 6/6 Đội Nhân, Vĩnh Phú, Ba Đình, Hà Nội",3.8,21.0419948,105.8107436,10 PM,8 AM,Ba Đình,Mẹ và Bé
 Siêu Thị Mẹ - Bé,"2WP6+654, TT. Sài Đồng, Long Biên, Hà Nội",5.0,21.0355229,105.9104538,10 PM,8 AM,Long Biên,Other
 Hò Siu - Siêu thị Mẹ và Bé,"228 Đ. Khương Đình, Hạ Đình, Thanh Xuân, Hà Nội",5.0,20.9926952,105.8136605,10 PM,8 AM,Thanh Xuân,Mẹ và Bé
@@ -56,15 +56,15 @@ Siêu Thị Mẹ Bầu & Em Bé Con Cưng,"147K P. Đội Cấn, Đội Cấn, B
 KidsPlaza 27 Trần Duy Hưng,"27 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội",3.9,21.0132018,105.8028691,10 PM,8 AM,Cầu Giấy,KidsPlaza
 KidsPlaza Nguyễn Cơ Thạch,"C2-1 P. Nguyễn Cơ Thạch, KĐT Mỹ Đình I, Nam Từ Liêm, Hà Nội",4.0,21.0321922,105.7648389,10 PM,8 AM,Nam Từ Liêm,KidsPlaza
 KidsPlaza 182B Lạc Trung,"182 P. Lạc Trung, Thanh Lương, Hai Bà Trưng, Hà Nội",3.9,21.0030822,105.8658739,10 PM,8 AM,Hai Bà Trưng,KidsPlaza
-Shop Mẹ và Bé,"Thôn, Đồng Bụt, Quốc Oai, Hà Nội",5.0,20.9953213,105.6107104,24 hours,24 hours,Quốc Oai,Mẹ và Bé
+Shop Mẹ và Bé,"Thôn, Đồng Bụt, Quốc Oai, Hà Nội",5.0,20.9953213,105.6107104,11:59 PM,0:00 AM,Quốc Oai,Mẹ và Bé
 KidsPlaza 52 Vũ Trọng Phụng,"52 Đ. Vũ Trọng Phụng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",4.6,20.9980478,105.8093403,10 PM,8 AM,Thanh Xuân,KidsPlaza
 KidsPlaza 104A Tôn Thất Tùng,"104A P. Tôn Thất Tùng, Kim Liên, Đống Đa, Hà Nội",4.1,21.006051,105.8308676,9:30 PM,8 AM,Đống Đa,KidsPlaza
 Baby Fun Shop,"112 Kim Ngưu, Quận Hai Bà Trưng, TP. Hà Nội, P. Kim Ngưu, Thanh Nhàn, Hai Bà Trưng, Hà Nội",3.7,21.0070633,105.8612385,9:30 PM,8 AM,Hai Bà Trưng,Other
-Cửa Hàng Quần Áo Mẹ Và Bé HaTo,"21 Ng. 168 Hào Nam, Chợ Dừa, Đống Đa, Hà Nội",4.3,21.0261342,105.828754,24 hours,24 hours,Đống Đa,Mẹ và Bé
+Cửa Hàng Quần Áo Mẹ Và Bé HaTo,"21 Ng. 168 Hào Nam, Chợ Dừa, Đống Đa, Hà Nội",4.3,21.0261342,105.828754,11:59 PM,0:00 AM,Đống Đa,Mẹ và Bé
 KidsPlaza Xã Đàn,"374 P. Xã Đàn, Nam Đồng, Đống Đa, Hà Nội",3.5,21.0148121,105.8339473,10 PM,8 AM,Đống Đa,KidsPlaza
 KidsPlaza 43 Lạc Trung,"43 P. Lạc Trung, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",4.3,21.0030771,105.8657197,9:30 PM,8 AM,Hai Bà Trưng,KidsPlaza
 KidsPlaza Nguyễn Xiển,"Số 22 Đ. Nguyễn Xiển, Thanh Xuân Nam, Thanh Xuân, Hà Nội",4.3,20.9907718,105.8032483,10 PM,8 AM,Thanh Xuân,KidsPlaza
-Sukem Shop- Chuyên đồ sơ sinh mẹ và bé,"6 Ng. 31 P. Lương Khánh Thiện, Tương Mai, Hai Bà Trưng, Hà Nội",4.0,20.9861384,105.8512066,24 hours,24 hours,Hai Bà Trưng,Mẹ và Bé
+Sukem Shop- Chuyên đồ sơ sinh mẹ và bé,"6 Ng. 31 P. Lương Khánh Thiện, Tương Mai, Hai Bà Trưng, Hà Nội",4.0,20.9861384,105.8512066,11:59 PM,0:00 AM,Hai Bà Trưng,Mẹ và Bé
 KidsPlaza - 18 Xuân Đỉnh,"18, Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",3.3,21.0696989,105.8020069,10 PM,8 AM,Bắc Từ Liêm,KidsPlaza
 BiboMart,"570 Đ. Trương Định, Giáp Bát, Hoàng Mai, Hà Nội",4.1,20.9835143,105.8456552,10 PM,7 AM,Hoàng Mai,Bibomart
 BiboMart Nguyễn Văn Cừ,"76 Đ. Ngô Gia Tự, P, Long Biên, Hà Nội",4.2,21.0592471,105.8921943,10 PM,7 AM,Long Biên,Bibomart
@@ -75,7 +75,7 @@ KidsPlaza 226 Khương Đình,"226 Đ. Khương Đình, Hạ Đình, Thanh Xuân
 KidsPlaza Vương Thừa Vũ,"21 P. Vương Thừa Vũ, Khương Thượng, Thanh Xuân, Hà Nội",4.0,21.0007067,105.8223934,10 PM,8 AM,Thanh Xuân,KidsPlaza
 KidsPlaza 77B Xuân La,"77B, Tây Hồ, Hà Nội",1.0,21.0630859,105.8071183,10 PM,8 AM,Tây Hồ,KidsPlaza
 KidsPlaza 78 Nguyễn An Ninh,"78 P. Nguyễn An Ninh, Tương Mai, Hoàng Mai, Hà Nội",1.0,20.9900464,105.8454015,10 PM,8 AM,Hoàng Mai,KidsPlaza
-Shop Quần Áo Cho Bé,"Số 28 Ngõ 85, Nguyễn Lướng Bằng, Quang Trung, Đống Đa, Hà Nội 115000",4.7,21.0157159,105.828119,8:30 AM,8:30 AM,Đống Đa,Other
+Shop Quần Áo Cho Bé,"Số 28 Ngõ 85, Nguyễn Lướng Bằng, Quang Trung, Đống Đa, Hà Nội",4.7,21.0157159,105.828119,8:30 PM,8:30 AM,Đống Đa,Other
 Shop Mẹ & Bé G.Lady,"19 Đ. Thụy Khuê, Thuỵ Khuê, Tây Hồ, Hà Nội",4.7,21.0412886,105.8289995,10 PM,8 AM,Tây Hồ,Other
 KidsPlaza Khu đô thị Thanh Hà - Kiến Hưng - Hà Đông - Hà Nội,"Kiot 4 - 6 tầng, 1 Tòa HH03A, Khu Đô Thị Thanh, Hà Đông, Hà Nội",5.0,20.9360445,105.7860133,10 PM,8 AM,Hà Đông,KidsPlaza
 KidsPlaza Xa La,"65 - 67 Đường 70, Khu đô thị Xa La, Hà Đông, Hà Nội",4.2,20.9645645,105.7937202,10 PM,8 AM,Hà Đông,KidsPlaza
@@ -95,10 +95,10 @@ BiboMart Xuân La,"36 Đ. Xuân La, Xuân La, Tây Hồ, Hà Nội",1.4,21.06693
 BiboMart Phạm Văn Đồng 3,"122 Đ. Phạm Văn Đồng, Mai Dịch, Cầu Giấy, Hà Nội",1.4,21.0435389,105.7807169,10 PM,7 AM,Cầu Giấy,Bibomart
 BiboMart,"43 P. Lạc Trung, Vĩnh Tuy, Hai Bà Trưng, Hà Nội",4.0,21.0028577,105.8661672,10 PM,8 AM,Hai Bà Trưng,Bibomart
 BiboMart Vũ Trọng Phụng,"114 Đ. Vũ Trọng Phụng, Thanh Xuân Trung, Thanh Xuân, Hà Nội",1.0,21.0010905,105.8071536,10 PM,7 AM,Thanh Xuân,Bibomart
-BiboMart,"Handico Tower, Tầng 10, Đ. Phạm Hùng, Mễ Trì Hạ, Thượng, Hà Nội",1.5,21.016656,105.7821336,24 hours,24 hours,Thượng,Bibomart
+BiboMart,"Handico Tower, Tầng 10, Đ. Phạm Hùng, Mễ Trì Hạ, Thượng, Hà Nội",1.5,21.016656,105.7821336,11:59 PM,0:00 AM,Nam Từ Liêm,Bibomart
 BiboMart Bạch Mai,"290 P. Bạch Mai, Bạch Mai, Hai Bà Trưng, Hà Nội",3.2,21.0021603,105.8507021,10 PM,7 AM,Hai Bà Trưng,Bibomart
 BiboMart Hoàng Văn Thái,"Số 52 P. Hoàng Văn Thái, Khương Mai, Thanh Xuân, Hà Nội",3.5,20.9963425,105.8277554,10 PM,7 AM,Thanh Xuân,Bibomart
-BiboMart Quang Trung 2,"388 Đ. Quang Trung, La Khê, Hà Nội,",3.8,20.9629812,105.7653984,10 PM,7 AM,La Khê,Bibomart
+BiboMart Quang Trung 2,"388 Đ. Quang Trung, La Khê, Hà Nội,",3.8,20.9629812,105.7653984,10 PM,7 AM,Bắc Từ Liêm,Bibomart
 BiboMart Green Star,"Tòa 27A2, 232 Đ. Phạm Văn Đồng, Khu chung cư Green Stars, Bắc Từ Liêm, Hà Nội",3.1,21.0522942,105.7807432,10 PM,7 AM,Bắc Từ Liêm,Bibomart
 BiboMart 230 Lê Trọng Tấn,"230 P. Lê Trọng Tấn, Định Công, Thanh Xuân, Hà Nội",3.5,20.991625,105.8327663,10 PM,7 AM,Thanh Xuân,Bibomart
 BiboMart Phạm Văn Đồng,"481 Đ. Phạm Văn Đồng, Cổ Nhuế, Bắc Từ Liêm, Hà Nội",3.5,21.0584003,105.7830298,10 PM,8 AM,Bắc Từ Liêm,Bibomart
@@ -111,16 +111,16 @@ BiboMart Phan Trọng Tuệ 2,"282 Đ. Phan Trọng Tuệ, Thanh Liệt, Thanh T
 BiboMart Xuân La 1,"12B Đ. Xuân La, Xuân La, Tây Hồ, Hà Nội",1.0,21.0611697,105.8073013,10 PM,7 AM,Tây Hồ,Bibomart
 BiboMart Nguyễn Văn Cừ,"Số 170 Đ. Nguyễn Văn Cừ, Ngọc Lâm, Long Biên, Hà Nội",4.0,21.043345,105.872001,10 PM,7 AM,Long Biên,Bibomart
 BiboMart Ecohome,"13 Tòa N04 Khu nhà ở Ecohome 3 Bắc Cổ Nhuế- Chèm, P.Đông Ngạc, Q, Bắc Từ Liêm, Hà Nội",2.9,21.0846465,105.7853154,10 PM,7:30 AM,Bắc Từ Liêm,Bibomart
-BiboMart Trạm Trôi,"TT. Trạm Trôi, Hoài Đức, Hanoi",2.9,21.068562,105.7101796,10 PM,8 AM,,Bibomart
+BiboMart Trạm Trôi,"TT. Trạm Trôi, Hoài Đức, Hanoi",2.9,21.068562,105.7101796,10 PM,8 AM,Hoài Đức,Bibomart
 BiboMart Khương Đình,"198 Đ. Khương Đình, Hạ Đình, Thanh Xuân, Hà Nội",1.0,20.9932038,105.813768,10 PM,7 AM,Thanh Xuân,Bibomart
 BiboMart Văn Khê,"Số 4, LK 9, Văn Khê, La Khê, Hà Đông, Hà Nội",3.5,20.9741156,105.7640435,10 PM,7 AM,Hà Đông,Bibomart
 BiboMart Dương Nội,"Tầng 1 Tòa nhà H - CT7, KDT Dương Nội, Hà Đông, Hà Nội",3.5,20.9632783,105.7487575,10 PM,8 AM,Hà Đông,Bibomart
-BiboMart Kim Văn,"Kiot Số 8 KDT, Kim Văn, Hoàng Mai",4.0,20.9723591,105.8203718,10 PM,7 AM,,Bibomart
+BiboMart Kim Văn,"Kiot Số 8 KDT, Kim Văn, Hoàng Mai",4.0,20.9723591,105.8203718,10 PM,7 AM,Hoàng Mai,Bibomart
 BiboMart Ngô Xuân Quảng,"82 Ngô Xuân Quảng, Trâu Quỳ, Gia Lâm, Hà Nội",5.0,21.0175759,105.9367218,10 PM,8 AM,Gia Lâm,Bibomart
 BiboMart Sài Đồng,"51 P. Sài Đồng, TT. Sài Đồng, Long Biên, Hà Nội",3.4,21.0345006,105.9100894,10 PM,7:30 AM,Long Biên,Bibomart
 BiboMart Phùng Hưng,"38 Đ. Phùng Hưng, P. Phúc La, Hà Đông, Hà Nội",2.0,20.9706582,105.7836953,10 PM,7 AM,Hà Đông,Bibomart
 Bobbymart,"Sun City, P. Hai Bà Trưng, Phan Chu Trinh, Hoàn Kiếm, Hà Nội",4.2,21.020179,105.854487,9:30 PM,8 AM,Hoàn Kiếm,Other
-BiboMart,"136 Đ. Hồ Tùng Mậu, Cầu Diễn, Từ Liêm, Hà Nội",4.2,21.0398426,105.767534,24 hours,24 hours,Từ Liêm,Bibomart
+BiboMart,"136 Đ. Hồ Tùng Mậu, Cầu Diễn, Từ Liêm, Hà Nội",4.2,21.0398426,105.767534,11:59 PM,0:00 AM,Bắc Từ Liêm,Bibomart
 Cửa Hàng Đồ Chơi Trẻ Em BiBoMart,"24, Phố Sơn Tây, Phường Kim Mã, Quận Ba Đình, Điện Biên, Ba Đình, Hà Nội",4.2,21.0330269,105.8326515,10 PM,6:30 AM,Ba Đình,Bibomart
 Kho BiboMart Hà Nội,"Km9 Nam An Khánh, An Phú, Hoài Đức, Hà Nội",4.2,21.0033047,105.7234646,8 AM,8 AM,Hoài Đức,Bibomart
 KidsPlaza 340 Bach Mai,"4 P. Lò Đúc, Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội",4.0,21.0181709,105.8550556,9:30 PM,8 AM,Hai Bà Trưng,KidsPlaza
